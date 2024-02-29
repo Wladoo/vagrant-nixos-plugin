@@ -2,7 +2,7 @@ repo_name: Wladoo/vagrant-nixos-plugin
 report_id: 247439b2e20fa1b8e83d4fdedf2a9557
 version: 0.1
 repo_type: Public
-timestamp: '2024-02-25T10:24:37+00:00'
+timestamp: '2024-02-29T20:12:45+00:00'
 requested_by: Wladoo
 provider: github
 branch: master
